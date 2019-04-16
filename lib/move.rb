@@ -8,7 +8,8 @@ def display_board(board)
 end
 
 def input_to_index(argument)
-  players_pick = argument.to_i 
+  players_pick = argument.to_i
+  array_indes = players_pick - 1 
 end 
 
 
