@@ -7,8 +7,8 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-def input_to_index(argument.to_i)
-  
+def input_to_index(argument)
+  players_pick = argument.to_i 
 end 
 
 
