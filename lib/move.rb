@@ -9,7 +9,11 @@ end
 
 def input_to_index(argument)
   players_pick = argument.to_i
-  array_indes = players_pick - 1 
+  array_index = players_pick - 1 
+end 
+
+def move(board, array_index, player = "X")
+  
 end 
 
 
